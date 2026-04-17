@@ -5,3 +5,4 @@ Template for Stripe open-source projects, including our default [license](LICENS
 
 ### Next steps
 * [Add a `CONTRIBUTING.md`](https://github.com/stripe/.github/new/master?filename=CONTRIBUTING.md) file to set expectations for how outside collaborators should contribute to this project.
+
